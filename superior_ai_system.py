@@ -505,3 +505,4 @@ def process_uploaded_image(uploaded_image):
 
 if __name__ == "__main__":
     main()
+
